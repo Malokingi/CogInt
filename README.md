@@ -37,3 +37,5 @@ To apply Frontend Service(NodePort):
 ```
 kubectl apply -f https://k8s.io/examples/application/guestbook/frontend-service.yaml
 ```
+
+202010221052
